@@ -1,1248 +1,1248 @@
 [[polymake_oscarnumber]]
 arch = "aarch64"
-git-tree-sha1 = "3762189325b8968515f4b4ffc97e4def429b16ea"
+git-tree-sha1 = "3768321fce8bb5393e7bce1821c52ef2e57071b4"
 julia_version = "1.10.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "1ed26b9f378e40c17969a70bda8b509fc9b3e51bc8eb29f222bb1df2ce33c2cf"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "c68a8ac78c0191b2a51983f6da2b3e5352bed88a0c81393819d98e990524fb55"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
-git-tree-sha1 = "a4f4cd2c66653ee0d023607b654e8f73e319000a"
+git-tree-sha1 = "bef8934f2e86e4028c845c7cf76c4051e72be3db"
 julia_version = "1.11.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "6357ccf134bed9afe780313672efb8c4429a7cf54955c14e6c58e070be433682"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "465a6a9308b7398f6bac51488e78dbccdcf2363cf86b7c9e148dfa4834840d39"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
-git-tree-sha1 = "fcb5fbd3c0851fe8e6522d449c0d5f74d5e6ac20"
+git-tree-sha1 = "4831aae608adc017295a93fe353ac3d10799b95f"
 julia_version = "1.12.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "4f8aa026999f6cd8c722336a5ccbba4c8cf77355e679487d24045a6b1640ef49"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "2ad856fc53514dab41624b892aec1dd93de86c65a7ce43c80aa73301264aba48"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
-git-tree-sha1 = "16fd8dd988e32f167b74d928760bffbb1d444642"
+git-tree-sha1 = "685632801f05a93f86cb2272f31fbdfefde7947e"
 julia_version = "1.7.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "6434faabc0cea05fb2b63ac44b0a2a9e13b39850b2ec4d200454b068de1efcdd"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "4ce6842db79c0f771bee2012d2eae04d5d66fea1b1e72ff706aa7da78ff6c3f3"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
-git-tree-sha1 = "fc1203f29c9c5f38b816c724642a7766d7711ef8"
+git-tree-sha1 = "2b620a3934f13b99a19357496bad0ffdda2a72ce"
 julia_version = "1.8.2"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "3bc8cc4ad66c2e5a60213422d4825dd154d18667a8a6dbcdef96aa8ba48d2a96"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "e56b39175d3ded6f6c2a4b4344e27a1e19af26429d23015bf2fa438f2d79683c"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
-git-tree-sha1 = "7eaef1db50dcd070b0981df392c8f11059705332"
+git-tree-sha1 = "1672f07ffd9743fdacb2ec7a9ed830960f5c723c"
 julia_version = "1.9.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "b88f246c81d437660803f4411b034e29d07efd28383970cef5c3953e5fe178cb"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "964c195ed817421a2eaf324f46220d5374dbcbc18dea5b766df11765883e8d9c"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "83555d8232acefb6391e2eb6c99c99412f3aad76"
+git-tree-sha1 = "25d627ff10478dd73d8ae4413210afb8d647c683"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "39a49ac5ae4e48ef5c34839fb88efdef743c824873322160a4165a423bce873d"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "dd703dffde5bf3a4ceb02175209d5e4ef0716ea5b246ce35ba4e3771af7d851d"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2be397fdf1a6d0e12ddd0a79f720d3c39df0df05"
+git-tree-sha1 = "f76d4469928aeecad95632f2af18b5a2f34d26ae"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "d99f24a6a46c5a85eadddbda84e42ee7d2ce297306ae7ffef8a451a8814b5244"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "07f03ab2bde4f804843a1b24a384b13743399bdc735090fffac4463148bd8f36"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "22406965a0449d7cfa2f6009a28f094069ef8dde"
+git-tree-sha1 = "2c1b638630157b53c0ab5167a21ca5075dc92252"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "836c41db0a4f3b5ece91bc8ef63df2b0db09553beb80311fd533a5b964e4ea75"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "98ff8da9cd54f4feff70c9fc49e7928970038df0b1eb03c4f4d2e5233341ad63"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8a1486a80534274e7d20d5b899784fcc1ff8c340"
+git-tree-sha1 = "d473f0220ae5078519d86ffc1a84aa8cd8061626"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "3b2d2f48d7a52d1a012bba187d1b8052eba138f4a0a4d2d2ce7e39662faf6207"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "c26aaaf447a6bab09f0391a417b5dff8dc1395bb99e2d4b2c83d8ea0b5f7a351"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a5bbd6e35fe3b7f9fd6020cb4e0ac013c8a3a051"
+git-tree-sha1 = "7b8b5f005611082cfe624380206a65f744ed9140"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "41f3f9184abb187651f377c360daa00e7d4ebf49d7ee031e71df0704d8d3f70b"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "b3371763cb5899fede9ddd02d0ac56e6749c1da319ac4149e7caa9a1b3edb12d"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d2a5c3c4dd8c8deb0ca8fe8cb6e3887cf94388f8"
+git-tree-sha1 = "638391bcf11887c4d9cb7bfb50f67ed4e78cb9e1"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "1717e70270cd986edde90dcbc0a95d87346e554b9d06aaf4ef531f76a7043a63"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "4db6986a561f54a7dafd50c11b131540f3a17e93999a14ca0203c53121fc7723"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f87bb9afe5a6591bffacce84f906d875eb58c092"
+git-tree-sha1 = "949063d94d924d6d99957738e066a30225c2ce0e"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "1b23c4bef5344545608db973238b773d7238159cc71486925fa13f1c80e0cdbf"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "265e56fe90e9eae48739f11e9cee7301b4623273ce2d252b78f160d14f79540e"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae099b0264653748dd896a203e5bfea89f2816b3"
+git-tree-sha1 = "ae46ab4a3600f8853df47ad10105b9257eca2e3f"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "b90a0018e9485e925809a30a3354ef3d072532ad65a526e48315d3fadb65f5f3"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "f6c2375c8e377eb94b5992c8dcb4619dbc87f2028e3c05c0cae16906258c3a72"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7e76f5efe6e771a75a06c43da1b22659bf362b2e"
+git-tree-sha1 = "b9ecf745d3d3c21c0f102d40951f66598eed3d75"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "0032ab9ea1bb60dcfea01d0384e82114d64a79a6f5b248849904545ade47a811"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "62acd71d17d0ddb23a59b011712ac4463710e8a28cc960a8f72b3fa9d37e90b9"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "83fc9502e919e65bf8e9748339cc6a42e4abf03a"
+git-tree-sha1 = "573fac7d6a5c02a338095c8f77fba5571c3b0826"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "7e45247fa39fa0b0933b1f349095256630544f035724ce54fb7291a0e7bf701b"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "acde5c8fa82139a82be7347001b080637c137560420e0a1df21fc92bb6a3f8ce"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4648c91a61ccd166f64f74be3983db55f522357a"
+git-tree-sha1 = "5c5af93b3d40dc99d4b5ef9ce79f970a44ac7090"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "80a7a177fc495740d1ddab5415c124edb0ac478d9cb6f2fd27b00f7f37465df7"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "548723acbda35380f842a354b3979998d5fc0e67da39bb16698ed03d7437cb3a"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "38d8bb70e1c8d94593adfae827b5c65a399eb498"
+git-tree-sha1 = "3c8517b10bad1db041600838a596270c9a9aa65b"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "06c7877d1f6cf46d362ac70aae357f1f37b2bf113bd11168a59d57e6df7153d9"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "3c6f72db59025a0a890a46dc94dc435a69c5b56c9ce9121555c5f91a9b8ac56e"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d67accaa62ccd8e33d956ffd48c7ba3f4e73c442"
+git-tree-sha1 = "946772f4727f51856441abbdcdc4bf4cba1fb993"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "ec29e7291d7076eb2f0367b58b05963e2d9b9f2616650278c35d76a6295cd11f"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "53a6c2ea485170c0f171fc3646b89774cbcafa0eac223afadf665329995ef194"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8fff299b50635bd7826d020b2b1698ac8de75e2c"
+git-tree-sha1 = "d9c3d8cd1f21b8e907d5941f88d37960c6f17118"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "b9fa94ffc4711f3116de6c531ecbd557b81d49202394b2465d79861fb08cd25c"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "589b52422f5ad7bf494350ff88ffb1bca4f2cd187e274aa7ea0df949ee842acc"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d0840674f9e3e5f6573bb9adda570306d9adb1aa"
+git-tree-sha1 = "40eecea14cc955d4ab5636e58a9690e5281ce196"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "18b3660ead113e2c2a265e1e1c07c0377c63f477f48871b74274abef314378b0"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "4414f4eaaf9597ae55c77382fe3dd0eb165b43f29dd327d9113ced9d7dc07e4a"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ed20a88edcb64fee91a63ee33758970baec68d4e"
+git-tree-sha1 = "91ca0e7ac4d88f4f51d1125a85ea6ec56804921a"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "1f81b4f2e4db5f47e5b678d26654c689505831fdc0c16ffabba3cf61c370d53f"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "eee31ca2405ddcc410c1f32ec13caad31caed81277d7cd055ac82fd477d35aa8"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "86c9c69f12e67ec328b419d2bf53ccb7422f95ce"
+git-tree-sha1 = "ec091aaef872faae29d0069af59c96642bc16437"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "7d255c9b0740b74744c4934bc02408dfeb32132757456d4faf812e0af1a783ca"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "5e18f94f8f35be6e298b0eab052021b01c2dfe18b5304535fcf80a4c87c42fa8"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "71ca57c02b0b633bb9136baaf0c11ec4013635f3"
+git-tree-sha1 = "9c134713556a4cf8d3502cd9a4c360413e0e7fd7"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "ce0fe0247617dc66fb44d3ea1819e0c34114ca51e74d4735031856173fc09d0e"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "b8161e6dd32bf772172b7594dbf5b43cf9de81335770eecf6ed5359709bd44fb"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2139f4ef35f0ff333ad4cb405b768c24021f75cd"
+git-tree-sha1 = "7952a78799561b8606b1b7e1ebefce065981af7f"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "53d9625b3cf9736e2ea77f097ee148c9f9e5ff78570dcdd4b088c891577ab58a"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "445bcbba1da53f6a0b05614e0e6ed4087efd38c030cad96f1c5351c8abdb6b7e"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b7c7fb4b598dc6d9bac5a81550d357a32c1572b"
+git-tree-sha1 = "1e0bfd4e0f4d05625b38bc909efd579cf199cc6b"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "ed7f28fb3af7d51ba694353427f3854e3029af440b40b77b0f7cb4d10101f052"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "73356db2e9235bd098a118538795f88e857e6f840b0cd5a15da95dd0679da7dc"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6ad2111c47af9e7a916f27b7fc34accfe1b0f5b9"
+git-tree-sha1 = "4032edb3ef69c39d2a4f45f8f8d4f3ae05636679"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a2ce153701a57eb714d17381668cd840d63829da2f25fe28d1c2280134917bb5"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "9b83b5a0f335a6c2bb914803bbfabcb40502aaf916d15c02303d673507b4038c"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "05adf32d663a38a3487b9ee173a8e8890fc010be"
+git-tree-sha1 = "64d13b438dd2393904fc3d1dbc3bb196ec0f5455"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "c876e484c169d044b4e8c867872948b4fbb26ef1149383a3cd1326c40811c780"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "bcc3110f7fc6b172817ff77d43192119904f0e6c28b21eb474a0f59dd27da79d"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1f786216e6036fc4c4ce99a0783bb7d7f7b30592"
+git-tree-sha1 = "73d316a45adb0cc22a4ae0f543443d4432aa301c"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "fd6a7d7f549efcf1ceedec6a53f279a3ddf70baaa44ee0b9ae56a7921d07a09d"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "f0b8ce8bba537704df34a7dd69f7ed0aa51d40e6e62718b3ac68da6d226f1079"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d03f29d8139df1b0cfdbed269bf322af04d44177"
+git-tree-sha1 = "390f149b3089f34218908dadc40cacdddde7d1b3"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "e735e7ac25b2ae61fb914b710cfcded414fe10460e59a274e4c1aefef3a50641"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "9412694a60edf5feb6f6c1f908244c43ce77590e5e5fecc833022ac882b358fa"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8c2a90724fdfbb6a22ae397bfcb6434075878224"
+git-tree-sha1 = "ce805ea2806dbffa619852b43be32d42c41a7fce"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "4c51ece939923f2f1b414f8b3fe897aa2ffddc3db8482c2aa1fcd5cf578774bd"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "be153de3c2a7c7882d3279206febc7efbe343e63073fdf561531e203a49db820"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c0f05311209c1be2d598688b9b360582c1e8def"
+git-tree-sha1 = "87f9d91b053439b711cda24828f9e3ce29ece754"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "9c487b747c2e2881431c88580dd1d7f30179908497f7e848a2c3f0628bd4b423"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "0b837384873268a9cf818da291e64743e5818a47e470c83820e36a86453ed42b"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "11e55b1c87fecc175357eb883a0056ddcce4ca66"
+git-tree-sha1 = "09493a529622a388f83810bbca3a58cd6a340a43"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "4fb2228bfb6d7c16635c1b18f0431af468833aa88fb3d177ebcf6e12e0b6caa1"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "1ea72e82767d09e24325132b9fe0769060c13bd0d073ca11f2357679a90bd939"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "92928187bdc295c454a1a5a4cc87506e2748b9e1"
+git-tree-sha1 = "80e92ce97f40bd71c5af32e3c439dad2204836bb"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "fec9dcc917be0eebc148d33b32b5e3fdc8e5a5c6123ee2ad79023a7ba18ad995"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "3f24ec3643b9f416781e54fda0eba6fa97d36cfbe61ea2e2b43bc61ecc725a2c"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ec6a65cf98686e0340b5eb3c2d8020b7b72175d7"
+git-tree-sha1 = "713880a8977faebca3e9b201b590895e7757411c"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "7a238773cad5a019b80ce13abe84a93e9f8f06a730522910ad632907c5e3bf6e"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "f34471e120c6a08d1539e0927975bc5b8e2db205dcf9de2ee7ab50ca8dab0c48"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2237b49174d31f5d1b5b697b260edf10cc17ed79"
+git-tree-sha1 = "5552f8141bbbb17ea330cc9318f916ac7719f977"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "dca184502c22634422ec3f8a6388933710a2ff885e07a8ba9e18bc98ee2438f2"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "e6f64ae7cfa30afa3141fe002c77ff2dc031190a78f6b9a8ad80217233b59822"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca17fd0fa1eb53ad2140b4c5e2876b2bf4a18aee"
+git-tree-sha1 = "d8a24e873f746e40295a5c84109110056f7d8202"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "1262eff8e2e9eb56b1690c0b67e2141b85d541d67e2a553090fdb86e1636bfec"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "3b94c62fc584eb10c45a4ef8fd6a0884eafb04b941b96a936ccc90d82aaac745"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3a20dc18feacd4eca92a5cb936bc2fa9958f027"
+git-tree-sha1 = "3cd67e8528c6b3e8d99fec9940c851f8fea4b176"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "6ef0e99b0bcdcd310e8c8c23867f3d1120b0fdef6cd899e39c45436ef5811c23"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "ebb696253da5bcd1aef34452694e31d88c2115bbc859e35d8bbe27bd03d01d16"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6735c534d1b5babc348db0d7953e85341b0d7c75"
+git-tree-sha1 = "54e7804c95e3cb54ead917f1e4bb88da38221260"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "9ed08cbe5b9d3a8b5de5015f65009ab66aa6b92153f1cb07442239e5e71f2d7e"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "8dacee38cd3a5cdb9cf0e10ac14dee6388491db3ccc57e1edfa43f13518f5a9a"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "46bb3073c39f1bce18a3e21dadfaab23957dd6d0"
+git-tree-sha1 = "f58163edcaa6d4800807a891bd6bd43e21cd8d4b"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "e43fcc7bb0eb0bb8a29608175a05ef7c9b0e5fa124cc616c9c6f854ab0141b15"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "424af288bbd321663d62ad7874400cb123b9167d566e66eabe2b6b5a21658f3a"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fe09dcf64cf6fd67fa04caccdaf1eee81785297b"
+git-tree-sha1 = "4419cf9513152e842a0f4a341aec8d02f9b42836"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a243e92070f25f76e97e66bee227390ed311e2328b931a7bc415275ab050755b"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "42949a80457a340bc805a10389b7f3e66780b0277678911e3a9e0a0e02a198e8"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9299f862d2990dcc5e201705946ecf6ede0b3a0c"
+git-tree-sha1 = "0baef045a6bf463ccdeac7ccaad47d7f6c706210"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "b11b56d32f2e6c697d0e67df923b948686b53ddc8c90f536cdd093cbb78df120"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "212720fb27c1a1632f9d9dc722cbe80efe793d032b8a2eec2b1772c005c6ede3"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f0ae73c80dc1c4d210fce8980014dc02b5b21ef8"
+git-tree-sha1 = "9d442ff431c1b139be258b045e9dda718fa7f12e"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "c64a92ec98218895ec9e09da715c7b055fec3bcd8b59631af81f620a7058aa24"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "3633a4ee0137be55ed6d01a26803003c8a1a58d77447c5ef86f4c05a8481514c"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5ad6760f2dae3508d8b2f71e606ef23b30e4bb1f"
+git-tree-sha1 = "7e29fd028c8c9052fcb1b68e0224a1a22ff5b845"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "7e37dd13d76a6fe9635bd7a9ad15c9b9396d6c50704477f75c89bbb44ee877cc"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "cf17c8e41dde9327e3693c15e1874a642236c0f3e8b276c9bfbb0dfc4d60defb"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc6991b8d23038b2d855544e685b7395b2e801e2"
+git-tree-sha1 = "34df447e92a05e09dac4f4baee76da57ba062ae6"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "1b46d63dcf1fd3dd171074d4ee7cc793fc3285360b87928b678ea6d1d3a20a5d"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "e9148d67e9226b88d18a2b2f6c9eea43b75700072efeaf99e6a5a17d77f6bd51"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "be6fc45204089cb4f35e4aabf77531a868d3070f"
+git-tree-sha1 = "8461ae885b368a0e96d202bebbf26238a2931447"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "0bbe501b699c00e48fe12da11ef9f795eae945a9114257edd8104b006c1daf79"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "19286ebe250f2f771d6f77c9b7ba68f850748a9022da60ac082e26d5fadc5559"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5b73df61b2498bfdd86149e42354efee92a48864"
+git-tree-sha1 = "0b551fac01c5fe2b595da8ce84bea575e03221bc"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "f09fed594ddcf31af27af469adb3b301237c352cca7ce304462ff0a2f5a7ce90"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "2480277e5da46e9c194a076dd2a3e86cd5ad043a73865479d1bc3b416c05481c"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e55823fc05338cab35f9be45c4ca453e90731fa9"
+git-tree-sha1 = "f69cd2be7653ac3d5ed9e487168dc69a90586ec4"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a948ae3fba272595b6d5df8830ba8798b5ea0c6e29c314c80d1f6301ea129b84"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "1055863a40aabd6e300b0484497e5ed3fbcdc4415fb36b37ba00d15b9a716e8e"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "52f597344de2b0ef4475872f1fe65cf14b89c086"
+git-tree-sha1 = "0a0e2b2c840bab6a69e2f7e545f28f94c3a3c646"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "3a9520675dfb3c436a10c9717bcc33c4de74bea714476b06b08ac723a685bb10"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "e0125d87fb112848d29ebed8d06d6e11c4cdc7a240c1bb5d80302d2eaad08e5e"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca913efc7a4d613dc8de5b0c98e1b96b8ca7e3c0"
+git-tree-sha1 = "eb8b445b7ef74a8907f8f141d3297a159d51f36d"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "18c6cf9264494568b4abb148d8b4673afa124609e3160f77b2e0dd76f7fcb00a"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "3f7d89c485359f20f6c544d97df620c572fa9f367469ffc183adf76d6dc733fd"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1a7c5c977ce018fbf4b3c096a66b219c4aacda35"
+git-tree-sha1 = "0c6005901ee2590f4d70db511a77656d7436e97f"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "b3c384fc2e697a73579e12752514ac1b984fda39fcc25f278196cc12497fac8b"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "bd003b30f356a5fbc929a0a0ffc18cee23b291b5d469d6849fa1cf1e29c1d1cf"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b1a6af310506c1577aa043f726507558f61db662"
+git-tree-sha1 = "cc5c96d548c696525b41fb7e4d84a65ce902aeda"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "8c0974223c98c000670f2766d382339c6d9cf348290288aa2758577a4b9654d7"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "cba0df6c9ea4d569ee9b9ec55cf2683a09ce2e81329ec11c771ecace74b8506b"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fd89f2f1f2ebfe8a81a476a7ef68ecb66ca2e2ab"
+git-tree-sha1 = "a0911c80bda64a63c94df2e004006075c9e74c36"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "f72cb04a8e6d69a996524fbca3e4892129512e43b061c36fa110a2de61581f14"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "6239033f8305b4af0241f2d90dbe209173f6a3326684256cd5f92dcde40b3efc"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5637fbde3c8ee9b8ce184095c5f23d706e5ad359"
+git-tree-sha1 = "d0ada4a3e817006f3353fb442ca43a3d33eedf7a"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "9a0a79d6a7bbf56dae1cf206b36b76fb2adbbc963008a1e4ec9d64dd100e4259"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "5ea411e926e7e24bb317d3e3cda977b96a9d947c983358331c7e45488b5305cc"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d2cb2da008ce8aff45ab66c192befdd0ce8a59c6"
+git-tree-sha1 = "7536c8119982e0946002306c38fa753d4ac7a120"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "94434adc73c7315aaa6ce5a9113e64302175eaace49301c3b43695d0f9c61fe9"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "c513e23ba3527dc4c29ac672d6a15ce510ba995fe13a136e3b4dcd227f7d3650"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a102214cbdb32b85d637d7b0faed174b4db2771"
+git-tree-sha1 = "86acf063ff61162daab89f63038f324bdc1c0af4"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "da4e35fdc89728f6550efe6166fb23cd6ca28031aa9e4f9b55cdeff9b845c2dc"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "65579425c72348235997e91ef64fb8a6fd73da289859ba78c2c87c8d3af4c609"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fc04b5996224a52be2b5e7ddd4d75fd3f65c2274"
+git-tree-sha1 = "a40ed94ebc2e1456dba44883e3ac89d4055ee014"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "01f3b99c42589e5ac8a4e6b6a749362d9bd6f2461ff3f10513561f68413f637d"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "fac7870b28e9dac77a9f91295c77ec1907c2bb9a7c2abae5e60a0d1ac1990afe"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4618badd7ab4c313cdc85d7a2a2bcd4823cbb628"
+git-tree-sha1 = "e5ba608f699c4604dbda7b69ac1efefd2b875447"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "cda43c52491973e9fc4f4e827d989819b8064ffe1c07f83799b593b5d0e97239"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "14ad3df399c38c3ed2b4a676b7898c924a3bc19099475f33057726cc019579a6"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "06ca181dab86c8cbedd5998a6c65ed9a5f84cdee"
+git-tree-sha1 = "ea8eab635d35fa23e9ff59e7df12d8c2cd35fd59"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "8623b91a9008a00195aadef2a9644f54d821e1c2e6349643df2f1012bc86278f"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "7c1136bc55916bb3052540f62261266fe0b2356bca3881ed07612d8efb8d696a"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e5591eca01df29f6571ae9200383351557fcbe55"
+git-tree-sha1 = "a3bfbb42331f621f26bfd4318f593a7e080b8d9b"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "6e394ff455c1ee48bd210daee9ce4fe648bc43321297ac73077402f8c0bd73e8"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "b37d194eb79381a9c4a5fc4577eb0c3441e3954961be18e1a903615af0213bf7"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d2fe3611eac98f1087e0a2e6efba6d21ca10436"
+git-tree-sha1 = "2ffd7ba2ab808cc26fe46056ccb55870b300e1b9"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a748d2a999f22183c1f84c27ceac757db046d22d43f296afbf1a6902b52b6dda"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "ddf4231853d165f04d12e824dd557620fd8f158739834574f7f0d3118cc113bb"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "90bc3367327342dd8feb1f3a9e47976703d66f27"
+git-tree-sha1 = "1cb84d12dc054f442d8149deb02b06ab285ddbaf"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "e7dd4e993183ce7865db58636e4ed7443884753d931d198564cca61cae039f58"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "a2d6b2f29e1389ab532f20e78479da651ac2fef3d3ac55b7e7782eb702f757e0"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "923b5a628bca3a42836b9b40ab8923124d741a10"
+git-tree-sha1 = "f6170a69537400386654daa9f47090488fd1f8d9"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "d6be9d70e1e8891140ebbd368b61e60e14e1223db79ca7266f45f82433a47b70"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "153156721ca76e9cfa10efd515ca10d820bcc80c5d593a06b896dcb11e0e239f"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7eacff2a534ff6989edb1a7333aadcdd90835f05"
+git-tree-sha1 = "e8c010d14b1247b6caa5946a699c32f9805249fb"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a3cf6cc684b2a0ddc2c20abbe56055d8e0a5a33427d17e75fc000ca9192ceab8"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "668726da43ccdcbfb31e104293a088416e77f456fe556dbcebb9094a0c0bd5d8"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7efcaaf4a40454ac70bb3fb66b8b284f18592cc4"
+git-tree-sha1 = "d371ba12de597f19572bb6cda23cb3c399aaa116"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "2bc34add1e9396dd957b27616c4c63bd637da6a3e1d562beeaf010217dbaf65a"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "fc89bf8d1cf2f4d0b8290990115c4c8650e5eb6c9a6b9f1f18c792998fcd5609"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3908915a72e04355eedd968800180633bb67494f"
+git-tree-sha1 = "dc280a71fc3aa85065004855998499c34cc66582"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "36d7f596832b7c6d7e1533e8c0e2e47d3bb1cbf2055a4fc899b7eb3159500718"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "df4beb261d41ec8782da8c9492b818e7d00734ab1b1cf3c75b0f102299bb09ee"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4bbb5b6918562b5cb9c8a8fcd66e521e11c0bafd"
+git-tree-sha1 = "cc13e7e7bc5ff0f3369971afe3f2dd0bb7e4dab0"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "e5070221018ba1a4c21717e47cecb9ddc8cd8329c284fe2525cb21950553af48"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "720608550e8a2ae12e9bba138b78817c5aaa79e9e0a1ef1ad1c1e1953e2acd28"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d98da56bc72f1c03df8680fa1a863b28b99fe97a"
+git-tree-sha1 = "c4f2c2e7f4af5f742d2d8606dbebb56e7d8c0fce"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "7e98ddc6a1b27f1d95eb89603e5be95a2532aae637282cb779af5ce8fa18b565"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "25da5eab9027482ccbc762b8807eda0893ce13f545e0748e61b354aaa3bea638"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "874a4ae82253f17bcb5c1b39d28e70c01756a6f7"
+git-tree-sha1 = "31b0fd89c3f63ca2dc376ae0604c7bc3415aec3c"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "c3c458993a7298b2f82a24badc8db43151b425dd47870a9ddc3299df0d9bb3eb"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "83b7612ef853e25275e5b839dbddd76622abb9f8137e7c75a91f375e24958288"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a7c337159d8d3edfdb8d8d74f4452f2134b3d0ec"
+git-tree-sha1 = "20dc0ac6bbb2d1e4fab2066abb7295e80ea222ed"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a7e983f29fc734032d0ce5757ff56332faf252387d512d52fbd075d76a75af63"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "13e4c9fa8839f7baa8e42d03205391cc296a07d69c5b9674a485e86fb89b7562"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c188d5557fe15c302b65a3250aa19380a4afccc1"
+git-tree-sha1 = "a1118baf0c3a527f054a8edbf38bf8bfca3b185d"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a948744e83cfe3606fd68a91112d09ff49e9bbabef211dbdccdafa1075657d3f"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "9d1ad36cd2416a0a60afb9ea4e2f6666365e35cac454e6f0b6147f93845eb536"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "22cc0293474b2eefc0136d17080b583c93b7c3da"
+git-tree-sha1 = "17e1b817f8e31bcb503d94c5707969e23b0f4e44"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "d7bbc27193da1d8ea68b0d81cc384104068c570d92ceb8378635e4c7f387294a"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "5c4f5befd5f451be2de88f1c1a0e304a969d8c430107839759de51ef64b28bb7"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2741a649261dbaecaafb392dc9f400989acc13b2"
+git-tree-sha1 = "ecc4b94148f6054a7a2e814a30c5c65c6ce442f6"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "f9bfc63d1154a7c69dd14904d992f6d3cb3580aa18210d7698a86b0643a025a9"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "c0eeda9a9ce38e00dbcca7c97b6e7af079c4c339cb89a0675b9a6853420a9dad"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "010219ede14ac063305a9b15009825c9bb0e5f67"
+git-tree-sha1 = "f9fcd6725c0f6dff6e3687a04d7e956ef7e7fb2f"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "f005480fe0728a163883da9ce61f1c2bf954b90633d5ba0a77d97592353e8a38"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "243c25f4893c63d450c62b9e766aa461f6de6fdd108dce35ea40e65bce1d46e6"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "71e1d2111238ec1aa44a44bcadd9a5b3a01f7728"
+git-tree-sha1 = "efc74645a4e67b103265c97fb9d359ede0572700"
 julia_version = "1.10.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "39b3c53489d08b2174ce305944fcec5d62001ec80e40442dbb5518d24446f6b3"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "f7edf860366bab504578056a5fc5ce68bc78e67bccb256e3b1848c791e0af070"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "279582b303dff5b1a68fe1bc5ccbb78c018e78fe"
+git-tree-sha1 = "f30cacf1d9bcd38007702a6a29cdc31558d5ac4b"
 julia_version = "1.11.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "13786697cc4f11c784d207c514f840db92aaa67558a0d80817733164b9139b33"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "9fdd60f62c2ddf9473d6cd590ca93aa3603de4ce1b72379b670dd8fb66cdb9e6"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "a20da52de0204363ffc5553afa54ac2eb43b968d"
+git-tree-sha1 = "2bea8cd3dbee2129e8855ae2751a40feae1dc80e"
 julia_version = "1.12.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "83d90ada954bf958b9c786d7e25111ce8feb1a9be8c05acb4cbea857dc6eb333"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "7e3a3b5ff55c116cbf3b12cd43e93e82239991fbc9272221e254f898c3650016"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "9bf437c4c6e1b943c0cf8cf991caf63943340619"
+git-tree-sha1 = "774dddeb7819556551ad1b6ee9cab5d1ab530722"
 julia_version = "1.6.3"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "3a1d09b71ef4223d2e0d16943e9966aa3041238fd73b309f66f240fbc999ea96"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "a93f2f2d2eb18cde078b34dfddc4090aa8a9fc0943271a489565d2b38a0bdabd"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "7b8cafb1706679ace8f6017c4b26d52ffd8d5d4c"
+git-tree-sha1 = "47b5527b99aea0d6a6a17c3370775d75cbc5280e"
 julia_version = "1.7.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "b704ab58f315b3456b20ea162a657107d1bea6e77fcb4ceb5321d32f58a3b015"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "590bebe5da87061788d09d235844dc16207506ea4323bf3feed2e281941aed21"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "64562b0df53331282d1932ce9c49ea5d6bddf20c"
+git-tree-sha1 = "98078975909fc46ae57f20a44f31af1af3040deb"
 julia_version = "1.8.2"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "23d63a5df7ce714d09ff635e6d9466e352e900ff39d97c3cdfec4e2a3ded30a5"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "fa8299302969163e322150ef45fbeab8c2dbfbf157d6aa9e48a816e1eb061406"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "eb27baa207ee2c893f877de1509c396485f974e4"
+git-tree-sha1 = "72e6e7174a966231f5e16bd2f2275d306b9ed829"
 julia_version = "1.9.0"
 os = "macos"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "89d9154c63ba115fd9e712a2cd4b4018a782b06c39960a0ee02ef27b281a27c3"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "42ebcd2a4e392317c43223214c701ef84a925d2b45af749401af73cd84270a0b"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "afab18330eea167c27be99413b0066cfbcd60f71"
+git-tree-sha1 = "53b38e808e1ef61558f7cdfddf811e84cc662846"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "ac0b16364f463fcce0248cf6bfe0142f19baee6de8b23ac2324b4c9d46303b98"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "5b6d819e0de2ee2ce0e9d9552f88acc433c7a940371ef80862eb905154baa917"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "79c2c33c961f904417f486af75810ccc863df1eb"
+git-tree-sha1 = "922cfb8dfd1eda28f1360c8349d121f301df6bb0"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "2dc375039b91d7dcc38ac30561699110ff8cbade0b74781cf5a2e6db0d2d2e16"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "df2c6af6eb356b7c6154c1d17cf8d75359d26290f5d14043d7862f30ea62c609"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b6f8b1571c0b88bb3f4fd497edb181915cc2210"
+git-tree-sha1 = "0e99c544f9cbc0c7fecdb4d22659da503694211f"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "d266fec9ffd24c11ed84868f3f1660d8db92e4ce47a48b4ad82ea38dc9e75368"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "dbaa642e6f21c053b0440b69a1d4efd74e55e29ce76144defbd19731ff583f25"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2a53a5cde8875d2052354831505fa7112b13f507"
+git-tree-sha1 = "d0a3cbff114f520175ddde3ffbb1c2526078ee77"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "437fef0cf99ba4ffcb4a8030be9713ac847b1586ea2e32ceda3b9ef331006324"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "bae5ed4e327383f5ec1c655d33cc86e5340bde677f21cc25ddb47fcaa0f9b151"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8bc1f27be449724999e2437eac35446e063e4d2a"
+git-tree-sha1 = "9650ef3414a14fff8c59e9fde19c3a5e41d25b48"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "59c99e76ea4e578d41e7685f67a702a5b058e07b0b5e6463bd6c4b2268de4442"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "f5c7e393b0736f987a693bc18f1f47255d0501b5bd9be055c96ef65ab6efc7da"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "872e42c9c7ea63a9c9e0eadbd5c90a30811ff874"
+git-tree-sha1 = "590debf88a06492e511560905c6b8c98ee14e8a2"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "4d03b8736686411291366b5a7403c662fcca6b1f81891e055b1c5af9066e04b5"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "5b53e82893c65da11251751e4c14967dd1b132a7664935ca5eb6286a954159ec"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a4b353bcb7ff092d106cdad6c8f8b36136ee6985"
+git-tree-sha1 = "06d782b1fbddcef0a3453261e3cb43d469342091"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "45f43bd585c318fdac407371c3737d8f51ed061297c3a1cd19f5198fa73586df"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "8727f969d8bc0fea9418103de21089680915dec76ba92622ad99fa94040f68fa"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "403d41b4aadf9843be0db32c021841b8ee87bcf2"
+git-tree-sha1 = "1786d475a7ed81b810d0c91ab91c0f1196f89551"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "6a1c91752c9a6df9ba9e11f6d71d1cb9cc801d1505cc434edf9be3e679ccaef8"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "64a7d701047120924813439b13c14717d67345a31e7bbb88a83654343f975ac1"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a8059931965eddb9f68e154eb8aa2db742d6f8a4"
+git-tree-sha1 = "e1cbb324306269f4eac17561aafee7026be3688a"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "459fc0b4cbd84696d424a7f36e6bc6890019d8c6b7fb32ed9971eeab6a02cd16"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "f86384b38e7ff476f08d23aaa7d1bfe4cd3f199193daeabecb8d2349d8618fc1"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae6074c4043cb4639a46d78458211c903e940020"
+git-tree-sha1 = "73d62140fb81e35f1f58e001784a9e10fc599a5d"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "ff0eddef2b885009e00ee2389285d8abcef6066896d79b544e9d598cd53218c9"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "7da4f09764f1108a3d683a0618cba54a3f390be489e83eca2f6755961e73a876"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "76cbd44446d03b9cc34fa763832b7359816c744c"
+git-tree-sha1 = "4a3cf651c4336015d48b155044ef54b4d1b4baf2"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "7842b18c8faa5e19833597d5757056f2b0583c13e90a67e3e362f0619cb7d126"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "571b68f4f268f7b71b6a8e8bd5512b108d0d57c36160ca76a294eb535fc10c9f"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9d002baea04ece049442a49d64c0b8dcefdb9e72"
+git-tree-sha1 = "c2506a7b0f918da62134a3fb603cf40a39a672e0"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "396db4d88239803df83b415719ca169b2f68e930c363ac86864e88f2a6302a3e"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "b71bfab331057e3e4e321767c4e49220312811f2a4eeda78d74cb3b7e29178a5"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "668dc6d3d5740c418fb234de23591043d277099b"
+git-tree-sha1 = "92ca3484d8094fc0fb4b20722e90e15376d35e5e"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "c7a37ddb2b2fe5290c0631806c83755c17d4b5689393215fa57975def6d91e06"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "61395ae63dd1b58db6e1ea54719b2a337e6fa4470a90ef28a0f8b93f7a7be26f"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2909a3f1ffb913a2a55e103bc92c9208b76cd076"
+git-tree-sha1 = "32d336344ace30298c404ed106a090ff4599f5a3"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a207529d7dc4b7dc93d508960063b5cb7854e46c8387c6b06bd6740c14e8dbc1"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "9311f99feae8ec38d739537bd3c69afe61da5ae69bcc3d929888adcff9191d59"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a433d0b3a5ec4aa5a44a08af731114bcf5cfee8e"
+git-tree-sha1 = "23b911afeb5c4789cb679f34c9f2f3332c8ee769"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "9c2ec5cb6063e1e47498ae4a6b646fcec7ded985ed8ee319d34deadafd695ea5"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "8213b2be480bb1fddab49a6c0452912e04c572d8fba40c12172609869a7a896c"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d30528e34d3c3b30370a494b74b96250ca41e0b0"
+git-tree-sha1 = "d8ac2b97766b821bf5b9aa68b51da5931ec6eb27"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "35212656fdf9c3fb7f49b19c71c68ce5d524f08784de487a65aa13a366a36ada"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "90d08078236a533aaf98b90c098e0b7a781ea43bc378977eb9daa98af71b064a"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1945ec5f92c98acf762d83c9a68f1c506c7f130a"
+git-tree-sha1 = "93f18dc31e27dcb8d395f707efac1b89c1d1e87a"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "e2943a5328a164f70a847281f01f4dffd9e4d963e74d7257e12ba22cae3a8eab"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "6864e345480b4c137f018551c90fff9a6b97202a0ff310ae1aa902a5c7405bcc"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b6ed0414fa6d9757930dadc454bcf7e0e04f26c7"
+git-tree-sha1 = "fd358b4c603067cfc2b16666af8d69a801bb9dfb"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "8a3bc106315a88f9ed8349cdefa66dd4c60b70f366e55521b80102cd9c07318f"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "34b06f1c39d2bac1d9855a4f69c07fcb47a6a4ffb3dcd800c02cd23dfba4291f"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "00f8f16e648159a9287631a6b4c93288520e9573"
+git-tree-sha1 = "156faab9a413db9822762e7c2a6f474959add434"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "74ad5b4b88734a6f8a9825291a7eb114067df060fe9f6c5426f54c9efe265bd4"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "27e395dd63f38cf5e06998f668b219cc2540ffb86c8a039a6702afc0d9b3b91d"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "87380a2f42d48353d33e86c1933dd3e234bea056"
+git-tree-sha1 = "6a8c63605d7c122729751fb1b710d633a3256c93"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "ae1e97f856986d35a904cd256e6b142db482942ed0e42b504252d322d2636022"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "fe88d8a5023f8ad4719808ecf3ea121bf3623ab4740716c85f6eecfa93f0d2e9"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bdd635062646925af128a3e2e01f2d47ffcab865"
+git-tree-sha1 = "7904772176670c9a7de12ca824be68afcacf1e2f"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "d2192c7c12dd54dfadc9138b5235bfb468aa39d7c17c9c13ec50d889ddd2d49e"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "c2853c3cfeaeb6e5b07b5fae25da7b0945a6bcf0a9a72855a78a84e2a1493f55"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "66be0c4b662aa09a9c71b67283aff43cff98e572"
+git-tree-sha1 = "07ac11a976e2f7ea62a299dc0f7a41fb3c829e36"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "326ecd2c036acf8d4f7da05234eda2480c5de79959afed49d8d0f498b5e8bc47"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "68b8d9e5ba24f295b9fb4e741769bb89059977c26d1d11154e53d726c51040c8"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "28d6fbd99822cc155d18a18b856e30cca63dd1ef"
+git-tree-sha1 = "f56e1d0eda309f7b55ac7d8f734fa7aaa8065f57"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "61db7cbd8034de4f032d026243637ab160f349b5fdf5b8eb45db414980001aca"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "5f1eafa77bcf66adec36e69c50fde515817ef44381bf6971c5b17a0a9a5760ea"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "352cd42a1b3e22dd4c0a49ddbf3c3ae681e82ad4"
+git-tree-sha1 = "fce84501f62d18f00da26e9ff41da01717fbeea0"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "4f9ae7e6b9d1e9db8528e19ddf1f6c7bc5ec1c0fea6492fe5fd7f3aec6df3426"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "e591ae1ef098aef6a7ec08b83b6ac2965d8863cf305f5d665d752780e9f949d4"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee7be91bb2faefdcd81ec30fc3c9f163b5d1ee76"
+git-tree-sha1 = "1f730bd967f12f25f878fd11c6e282a55ce3ebbb"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "d9ee01d745a22ed1af7b9a073df543d6df9ef66d833a6634a0df2252b4acfc1c"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "dde35bd5be1fd0f3a6c6e2c40dc21609261692350298d87593cc07248c4113ab"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "baaa7c1bfeec95a005290faf55b6a014831fc2e6"
+git-tree-sha1 = "4507772f257cbac63552b4b81090c3514b3f3755"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "0ca4709732a46c2677653c37bf60ee22a210648ed39ca69a7a8dde3481011611"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "206e7d1e3f60dcb38bbf3a89673d4e9f90083c0e45a99d56b0cf6c823a925a5f"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f10dcc2f40a425d5092dc8ac1b2e1654ab53d566"
+git-tree-sha1 = "9c9f7b14ca49d9a329e7d337f178eb04889e6a90"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "697895047d855d44a6cd596a3d86d9e93a6678952dcb1204502e105f40e54f64"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "7033189b594d5d751d1d098ad27f74353817c9e8289bdcd005b62e8fc9b6b890"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e5bae67ad091100208d35d8c9ada149f609ff0e8"
+git-tree-sha1 = "4afeb720dcecba886b87a21a11ef86df529fbad7"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "49ecfadfcf3e1b0476718ddf7528fa3a15abfc3ccde21e3e9bb17f0ed4c2776b"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "3dd4bd2ee204f0594310e4e7ff23fdd36167db77f14bc815042a6e1578a081f0"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "d8e18a0a90bd462c2a157ea1a0b1abe2d364ef51"
+git-tree-sha1 = "269b81fd1c8311b3cb34264d688cdcd002a5c251"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "5dd1faa5aa8aed00a58e6fe10e94baa2f6ef4af6fbf40c956880a1fcfe332d2e"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "5240219a62933386ebe4d89865a2810b3168c822b5148c0409548a1465d72885"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "afc3af6595ffdc5baad1617bddb1c86073945942"
+git-tree-sha1 = "fcc2d820182546110d46534c4fca35c326d2aa9e"
 julia_version = "1.11.0"
 os = "freebsd"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "cdecbd8a30252fec1d08cca287aa425252d556c1e7a590b62e1b214a472ddef6"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+    sha256 = "f67b361f51d3658f47623e0dba7f04bd687b9e0da1261acf65295e98db6fd331"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "0cc0146119edc277bec5a00e35826e009a19e6df"
+git-tree-sha1 = "4c10b754058c14185019ce13265f8085d769f08c"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "f6a245815e053c7378cadc8b7cf96cdec49fae8813775e0f7cc6c3556dd53207"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "b299ad4e98243933b2c6309f599638c4789200d1219ae398d0456b3566dd460d"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "a305d43cc05a9cdbe060a0afe9052e071030e4ac"
+git-tree-sha1 = "871bfe39194c01c2db1f9f902b79e9af703867e6"
 julia_version = "1.6.3"
 os = "freebsd"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "56466dce2acd3c8854b8d73889e5c47e3eeae071932cc02671b7aa370d9b121d"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    sha256 = "7e02f6f62920a6afd8ed1fa42d82601913b8ce28b4a3bdc600acbd6c438a7ec4"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "bffbe9494c50460e35be61012d99b33a655a43e9"
+git-tree-sha1 = "a20f3598fe7b27c39e79dd2eb79cf44cd5ecba29"
 julia_version = "1.7.0"
 os = "freebsd"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "58cfd8bdd14fd723ece5aa222984c5d84164973287e77246365b5f0ae5f1046b"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    sha256 = "2ef7dd97ebd391906d91662a72502652394db8a8d6de16681a30ad693a7d1843"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "ee48a1593407384b896d8423c7657d8d72de53b3"
+git-tree-sha1 = "cb493812867131092769c814b8d5613c6028b4f7"
 julia_version = "1.8.2"
 os = "freebsd"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a444a7761394702cd1b1271bc702df8d87fe25e72fbe3eb0dafd18879abaa715"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
+    sha256 = "da9f2d8cdce27cce0e540606a4f7ae2a003d4a154818ca7f1296d0ddd55983ed"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
 [[polymake_oscarnumber]]
 arch = "x86_64"
-git-tree-sha1 = "52040f36b6fce8cd2c07a402d4c796079becf7c8"
+git-tree-sha1 = "7c7b961a7b486372a4a84dcb570825f14c9ce5b9"
 julia_version = "1.9.0"
 os = "freebsd"
 
     [[polymake_oscarnumber.download]]
-    sha256 = "a8871e4349a5d8b8e969d9117fd54aa4cb4bd3e815884f805fae3463854cc4e6"
-    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+0/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+    sha256 = "bbd25b36e0c74ecbb75c015d985add9099c5d40c4e6c50b09bdbc4b99918eb1f"
+    url = "https://github.com/JuliaBinaryWrappers/polymake_oscarnumber_jll.jl/releases/download/polymake_oscarnumber-v0.3.3+1/polymake_oscarnumber.v0.3.3.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
