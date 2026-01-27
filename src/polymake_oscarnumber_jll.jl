@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("polymake_oscarnumber")
-JLLWrappers.@generate_main_file("polymake_oscarnumber", UUID("10f31823-b687-53e6-9f29-edb9d4da9f9f"))
+JLLWrappers.@generate_main_file("polymake_oscarnumber", Base.UUID("10f31823-b687-53e6-9f29-edb9d4da9f9f"))
 end  # module polymake_oscarnumber_jll
